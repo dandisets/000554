@@ -31,7 +31,8 @@ assetsSummary:
   - ElectrodeGroup
   - ElectricalSeries
 citation: Tchoe, Youngbin (2023) Human brain mapping with multithousand-channel PtNRGrids
-  resolves spatiotemporal dynamics (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000554/draft
+  resolves spatiotemporal dynamics (Version 0.230531.1237) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.000554/0.230531.1237
 contributor:
 - affiliation: []
   email: ybtchoe@gmail.com
@@ -58,14 +59,15 @@ description: 'This dataset contains recordings from PtNRGrids, which are devices
   Science translational medicine 14.628 (2022): eabj1441.
 
   [Electrode mapping information & Basic analysis codes] Github: https://ytchoe.github.io/'
+doi: 10.48324/dandi.000554/0.230531.1237
 ethicsApproval: []
-id: DANDI:000554/draft
+id: DANDI:000554/0.230531.1237
 identifier: DANDI:000554
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000554/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000554/0.230531.1237/assets.yaml
 name: Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal
   dynamics
 protocol: []
@@ -86,8 +88,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000554/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000554/0.230531.1237
+version: 0.230531.1237
 wasGeneratedBy:
 - identifier: UG3NS123723-02
   name: Thin, High-Density, High-Performance, Depth and Surface Microelectrodes for
